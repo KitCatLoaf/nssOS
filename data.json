@@ -1,4 +1,5 @@
 {
   "text": "DBTesting - This is the 'text' value!",
-  "decalid": 8508980527
+  "decalId": 8508980527,
+  "testValue": "A test value"
 }
